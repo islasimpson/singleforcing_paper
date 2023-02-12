@@ -1,0 +1,23 @@
+Volcanic:
+
+CESM2:
+ext_frc_specifier
+'num_a1 ->  /glade/p/cesmdata/cseg/inputdata/atm/cam/chem/emis/CMIP6_emissions_1750_2015/emissions-cmip6_num_a1_so4_contvolcano_vertical_850-5000_0.9x1.25_c20170724.nc
+'num_a2 ->  /glade/p/cesmdata/cseg/inputdata/atm/cam/chem/emis/CMIP6_emissions_1750_2015/emissions-cmip6_num_a2_so4_contvolcano_vertical_850-5000_0.9x1.25_c20170724.nc'
+'SO2    ->  /glade/p/cesmdata/cseg/inputdata/atm/cam/chem/emis/CMIP6_emissions_1750_2015/emissions-cmip6_SO2_contvolcano_vertical_850-5000_0.9x1.25_c20170724.nc'
+'so4_a1 ->  /glade/p/cesmdata/cseg/inputdata/atm/cam/chem/emis/CMIP6_emissions_1750_2015/emissions-cmip6_so4_a1_contvolcano_vertical_850-5000_0.9x1.25_c20170724.nc'
+'so4_a2 ->  /glade/p/cesmdata/cseg/inputdata/atm/cam/chem/emis/CMIP6_emissions_1750_2015/emissions-cmip6_so4_a2_contvolcano_vertical_850-5000_0.9x1.25_c20170724.nc
+
+CESM1:
+Volcanic forcing in each of the files...
+
+ext_frc_specifier:
+contvolc: /glade/p/cesm/cvwg/inputdata/atm/cam/chem/trop_mozart_aero/emis/xaer/RCP85_mam3_so2_elev_19100115-21000115_xaer_c170919.nc
+SO4_contvolc: /glade/p/cesm/cvwg/inputdata/atm/cam/chem/trop_mozart_aero/emis/xaer/RCP85_mam3_num_a1_elev_19100115-21000115_xaer_c170919.nc
+SO4_contvolc: /glade/p/cesm/cvwg/inputdata/atm/cam/chem/trop_mozart_aero/emis/RCP85_mam3_num_a2_elev_19100115-21000115_c170901.nc
+contvolc: /glade/p/cesm/cvwg/inputdata/atm/cam/chem/trop_mozart_aero/emis/xaer/RCP85_mam3_so4_a1_elev_19100115-21000115_xaer_c170919.nc
+contvolc: /glade/p/cesm/cvwg/inputdata/atm/cam/chem/trop_mozart_aero/emis/RCP85_mam3_so4_a2_elev_19100115-21000115_c170901.nc
+
+
+
+
